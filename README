@@ -1,0 +1,8 @@
+Using MultActionController and @Controller in the same project.
+
+To use it on eclipse:
+mvn eclipse:clean eclipse:eclipse -Dwtpversion=2.0
+
+To run: 
+mvn jetty:run
+
